@@ -18,10 +18,10 @@ class VendingMachine:
             'Coke': 10,
             'Sprite': 10,
             'Water': 1,
-            'Juice': 10
+            'Juice': 0
         }
         self.notes = {
-            100: 10,
+            100: 0,
             50: 2,
             20: 3,
             10: 2,
